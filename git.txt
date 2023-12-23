@@ -1,0 +1,9 @@
+git init // first time 
+git add . 
+git commit -m "message"
+git remote add origin "htttp/url" //only one time
+git push origin master
+
+git add .
+git commit -m 
+git push origin master 
